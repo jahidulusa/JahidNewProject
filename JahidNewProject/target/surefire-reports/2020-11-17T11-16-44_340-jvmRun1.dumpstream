@@ -1,0 +1,125 @@
+# Created at 2020-11-17T11:16:58.017
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-11-17T11:17:17.167
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.168
+Unexpected IOException with stream: Failed scenarios:
+
+
+# Created at 2020-11-17T11:17:17.169
+Unexpected IOException with stream: DressesTest.feature:4 
+
+# Created at 2020-11-17T11:17:17.170
+Unexpected IOException with stream: # Scenario: Login to the website and add a dress to the cart
+
+
+# Created at 2020-11-17T11:17:17.170
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.171
+Unexpected IOException with stream: 1
+
+# Created at 2020-11-17T11:17:17.171
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2020-11-17T11:17:17.172
+Unexpected IOException with stream: 1 failed
+
+# Created at 2020-11-17T11:17:17.172
+Unexpected IOException with stream: )
+
+
+# Created at 2020-11-17T11:17:17.173
+Unexpected IOException with stream: 10
+
+# Created at 2020-11-17T11:17:17.173
+Unexpected IOException with stream:  Steps (
+
+# Created at 2020-11-17T11:17:17.174
+Unexpected IOException with stream: 1 failed
+
+# Created at 2020-11-17T11:17:17.175
+Unexpected IOException with stream: , 
+
+# Created at 2020-11-17T11:17:17.175
+Unexpected IOException with stream: 3 skipped
+
+# Created at 2020-11-17T11:17:17.176
+Unexpected IOException with stream: , 
+
+# Created at 2020-11-17T11:17:17.177
+Unexpected IOException with stream: 6 passed
+
+# Created at 2020-11-17T11:17:17.177
+Unexpected IOException with stream: )
+
+
+# Created at 2020-11-17T11:17:17.178
+Unexpected IOException with stream: 0m
+
+# Created at 2020-11-17T11:17:17.179
+Unexpected IOException with stream: 31.472s
+
+
+# Created at 2020-11-17T11:17:17.179
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.180
+Unexpected IOException with stream: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (e3b27470f79e34a0662a2a97d411f5fe)] -> xpath: (//*[@itemprop='price'])[2]] (tried for 20 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-QVJU989', ip: '192.168.86.47', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Inayah\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50692}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e3b27470f79e34a0662a2a97d411f5fe
+
+# Created at 2020-11-17T11:17:17.181
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.182
+Unexpected IOException with stream: 	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:82)
+
+# Created at 2020-11-17T11:17:17.182
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.183
+Unexpected IOException with stream: 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+
+# Created at 2020-11-17T11:17:17.183
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.184
+Unexpected IOException with stream: 	at com.stepDef.AutomationSteps.user_print_all_the_prices_values_in_decending_order(AutomationSteps.java:90)
+
+# Created at 2020-11-17T11:17:17.184
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.185
+Unexpected IOException with stream: 	at ?.And user print all the prices values in decending order(DressesTest.feature:11)
+
+# Created at 2020-11-17T11:17:17.185
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.186
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:17:17.252
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,com.runner.Runner,null,null,null
+
+

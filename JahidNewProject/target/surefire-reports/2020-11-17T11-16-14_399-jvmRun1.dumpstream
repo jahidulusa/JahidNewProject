@@ -1,0 +1,126 @@
+# Created at 2020-11-17T11:16:19.574
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-11-17T11:16:24.931
+Unexpected IOException with stream: This is the actual titleafter login: My account - My Store
+
+
+# Created at 2020-11-17T11:16:24.932
+Unexpected IOException with stream: This is the expected title: My account - My Store
+
+
+# Created at 2020-11-17T11:16:24.933
+Unexpected IOException with stream: Verified title: My account - My Store
+
+
+# Created at 2020-11-17T11:16:26.212
+Unexpected IOException with stream: Price values: $26.00
+
+
+# Created at 2020-11-17T11:16:26.213
+Unexpected IOException with stream: Price values: $50.99
+
+
+# Created at 2020-11-17T11:16:26.213
+Unexpected IOException with stream: Price values: $28.98
+
+
+# Created at 2020-11-17T11:16:26.213
+Unexpected IOException with stream: Price values: $30.50
+
+
+# Created at 2020-11-17T11:16:26.214
+Unexpected IOException with stream: Price values: $16.40
+
+
+# Created at 2020-11-17T11:16:26.214
+Unexpected IOException with stream: Price Values in descending order: $50.99
+
+
+# Created at 2020-11-17T11:16:26.214
+Unexpected IOException with stream: Price Values in descending order: $30.50
+
+
+# Created at 2020-11-17T11:16:26.215
+Unexpected IOException with stream: Price Values in descending order: $28.98
+
+
+# Created at 2020-11-17T11:16:26.215
+Unexpected IOException with stream: Price Values in descending order: $26.00
+
+
+# Created at 2020-11-17T11:16:26.215
+Unexpected IOException with stream: Price Values in descending order: $16.40
+
+
+# Created at 2020-11-17T11:16:29.225
+Unexpected IOException with stream: Price of the product(s): $50.99
+
+
+# Created at 2020-11-17T11:16:29.226
+Unexpected IOException with stream: Shipping cost: $2.00
+
+
+# Created at 2020-11-17T11:16:29.227
+Unexpected IOException with stream: Total price with shipping: $52.99
+
+
+# Created at 2020-11-17T11:16:29.228
+Unexpected IOException with stream: Total expected price with shipping: $52.99
+
+
+# Created at 2020-11-17T11:16:29.229
+Unexpected IOException with stream: Verified: Total price with shipping matches expected price, which is  $52.99
+
+
+# Created at 2020-11-17T11:16:30.299
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:16:30.299
+Unexpected IOException with stream: 1
+
+# Created at 2020-11-17T11:16:30.300
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2020-11-17T11:16:30.301
+Unexpected IOException with stream: 1 passed
+
+# Created at 2020-11-17T11:16:30.301
+Unexpected IOException with stream: )
+
+
+# Created at 2020-11-17T11:16:30.302
+Unexpected IOException with stream: 10
+
+# Created at 2020-11-17T11:16:30.302
+Unexpected IOException with stream:  Steps (
+
+# Created at 2020-11-17T11:16:30.303
+Unexpected IOException with stream: 10 passed
+
+# Created at 2020-11-17T11:16:30.303
+Unexpected IOException with stream: )
+
+
+# Created at 2020-11-17T11:16:30.304
+Unexpected IOException with stream: 0m
+
+# Created at 2020-11-17T11:16:30.305
+Unexpected IOException with stream: 14.535s
+
+
+# Created at 2020-11-17T11:16:30.305
+Unexpected IOException with stream: 
+
+
+# Created at 2020-11-17T11:16:30.375
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGDirectoryTestSuite,com.runner.Runner,null,null,null
+
+
